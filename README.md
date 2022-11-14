@@ -35,7 +35,7 @@ User(окремий процес) – користувач
 
 ---
 
-> ![communication](https://user-images.githubusercontent.com/90086332/201711721-a2934db5-e373-450f-bf29-1abed32a9eed.png)
+> ![communication](https://user-images.githubusercontent.com/90086332/201711721-a2934db5-e373-450f-bf29-1abed32a9eed.png) <
 
 ---
 
