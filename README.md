@@ -65,10 +65,10 @@ Forum
     -	Відображає – смски, час публікування, ім’я користувача який який публікував.
 ```
 
+---
 ```
 Client UI
 ```
----
 ![image](https://user-images.githubusercontent.com/90086332/202787733-8f697735-e018-42c5-b5a0-ed132aeb782c.png)
 ---
 ![image](https://user-images.githubusercontent.com/90086332/202787746-04ee327f-4fbf-4128-b337-838bcca9b875.png)
