@@ -67,16 +67,16 @@ Forum
 
 ```
 Client UI
-
-
-![image](https://user-images.githubusercontent.com/90086332/202787733-8f697735-e018-42c5-b5a0-ed132aeb782c.png)
-
-![image](https://user-images.githubusercontent.com/90086332/202787746-04ee327f-4fbf-4128-b337-838bcca9b875.png)
-
-![image](https://user-images.githubusercontent.com/90086332/202787755-5cfc8b35-d4d8-4721-8b7d-7f993e418eaa.png)
-
-![image](https://user-images.githubusercontent.com/90086332/202787771-99298365-4048-4a21-a6bb-53e93c14083d.png)
-
-![image](https://user-images.githubusercontent.com/90086332/202787783-f8607cd3-afdd-423c-8d25-afb2ab8702b2.png)
-
 ```
+---
+![image](https://user-images.githubusercontent.com/90086332/202787733-8f697735-e018-42c5-b5a0-ed132aeb782c.png)
+---
+![image](https://user-images.githubusercontent.com/90086332/202787746-04ee327f-4fbf-4128-b337-838bcca9b875.png)
+---
+![image](https://user-images.githubusercontent.com/90086332/202787755-5cfc8b35-d4d8-4721-8b7d-7f993e418eaa.png)
+---
+![image](https://user-images.githubusercontent.com/90086332/202787771-99298365-4048-4a21-a6bb-53e93c14083d.png)
+---
+![image](https://user-images.githubusercontent.com/90086332/202787783-f8607cd3-afdd-423c-8d25-afb2ab8702b2.png)
+---
+
