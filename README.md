@@ -81,3 +81,13 @@ Client UI
 ---
 ![image](https://user-images.githubusercontent.com/90086332/202788678-2add72f0-1271-4dee-a640-ffc21d2ac48a.png)
 ---
+
+```
+server - user - forum
+```
+![image](https://user-images.githubusercontent.com/90086332/203170362-06b31b0b-523c-47d7-8cce-0e913fe0d3b7.png)
+---
+![image2](https://user-images.githubusercontent.com/90086332/203170373-3c7655d5-6eca-44c3-8733-7bbbbb91e55b.png)
+---
+![image3](https://user-images.githubusercontent.com/90086332/203170388-af7d796d-d6d2-48db-a5a9-0d968f07eff7.png)
+---
