@@ -41,7 +41,7 @@
 
 ---
 
-> ![communication](https://user-images.githubusercontent.com/90086332/203171440-1c05f3ce-a11d-4275-9af4-74c0d4441907.png)
+> ![image](https://user-images.githubusercontent.com/90086332/203171608-0a96c8fd-8c70-451d-97a8-9f9aadf70605.png)
 
 ---
 
