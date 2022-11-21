@@ -93,8 +93,13 @@ server - user - forum
 ---
 
 ```
-server - user - forum
+user log
 ```
 ![image](https://user-images.githubusercontent.com/90086332/203170886-908a4d0e-b3de-464c-a416-7fbb0173c4e2.png)
+---
+
+```
+server log
+```
 ![image](https://user-images.githubusercontent.com/90086332/203170895-ab089cde-7a0f-44cb-88b3-f513c3f2a806.png)
 
