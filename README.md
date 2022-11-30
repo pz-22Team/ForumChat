@@ -86,7 +86,6 @@ Client UI
 ```
 server - user - forum
 ```
-![image](https://user-images.githubusercontent.com/90086332/203170362-06b31b0b-523c-47d7-8cce-0e913fe0d3b7.png)
 ---
 ![image3](https://user-images.githubusercontent.com/90086332/203170388-af7d796d-d6d2-48db-a5a9-0d968f07eff7.png)
 ---
