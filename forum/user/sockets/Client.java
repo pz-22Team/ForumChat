@@ -45,7 +45,7 @@ public class Client {
             }
             printWriter.close();
             bufferedReader.close();
-            //socket.close();
+            socket.close();
         } catch (ConnectException e) {
             logger.log(MyLogger.ERROR, "Cannot connect to server");
             throw new ConnectException(e.getMessage());
